@@ -1,0 +1,6 @@
+name = "plant-identifier"
+compatibility_date = "2024-11-01"
+assets = { directory = ".svelte-kit/cloudflare" }
+
+[vars]
+# Don't put secrets here — use `wrangler secret put` instead
